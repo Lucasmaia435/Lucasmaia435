@@ -4,7 +4,7 @@
 
 I'm a Flutter mobile developer from Brazil 💙;
 
-* Love *mobile development*, either Flutter or React Native;
+* Love *mobile development*, Flutter enthusiast;
 * Trying to improve my participation in open source community;
 * Love creating tools using Node.js (and now with *Deno*);
 
