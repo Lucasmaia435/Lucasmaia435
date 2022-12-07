@@ -6,7 +6,7 @@ I'm a Flutter mobile developer from Brazil 💙;
 
 * Love *mobile development*, Flutter enthusiast;
 * Trying to improve my participation in open source community;
-* Love creating tools using Node.js (and now with *Deno*);
+* Love creating useful (and sometimes useless) tools with Javascript and Dart;
 
 ![Lucas GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaia435&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=15151)
 <br>
