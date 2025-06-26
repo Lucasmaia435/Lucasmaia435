@@ -2,11 +2,11 @@
 
 ----
 
-I'm a Flutter developer from Brazil 💙;
+I'm a Flutter developer from Brasil 💙;
 
 * Love *mobile development*, Flutter enthusiast;
 * Trying to improve my participation in open source community;
-* Love creating useful (and sometimes useless) tools with Javascript and Dart;
+* Love creating useful (and sometimes useless) tools with Dart;
 ----
 ![Lucas GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaia435&hide=jupyter%20notebook)
 <br>
